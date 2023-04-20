@@ -1,3 +1,28 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "cliente",
+      "empresa": "google",
+      "email": "cliente@cliente.com",
+      "telefono": "9999999",
+      "notas": "no hay notas",
+      "id": 1
+    },
+    {
+      "nombre": "cliente",
+      "empresa": "Microsoft",
+      "email": "cliente@cliente.com",
+      "telefono": "44444",
+      "notas": "no hay notas",
+      "id": 2
+    },
+    {
+      "nombre": "cliente",
+      "empresa": "Alphabet",
+      "email": "cliente@cliente.com",
+      "telefono": "77777",
+      "notas": "no hay notas",
+      "id": 3
+    }
+  ]
 }
